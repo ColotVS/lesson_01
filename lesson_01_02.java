@@ -4,5 +4,6 @@ public class lesson_01_02 {
         String name;
         int i;
         long x;
+        boolean no = false;
     }
 }
