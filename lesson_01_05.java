@@ -7,9 +7,10 @@ public class lesson_01_05 {
         // System.out.println("weekend");
         System.out.print("Happy New");
         // System.out.println("weekend");
-        // System.out.println(s);
-        // System.out.print("Merry New!");
         System.out.print(" ");
         System.out.println("Year");
+        // System.out.println(s);
+        // System.out.print("Merry New!");
+
     }
 }
