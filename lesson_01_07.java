@@ -10,6 +10,7 @@ public class lesson_01_07 {
         //System.out.print(" минус ");
         System.out.print(a);
         //System.out.print("три");
+        //System.out.print("три");
         System.out.print(" равно ");
         //System.out.print(" будет ");
         //System.out.print("пять");
