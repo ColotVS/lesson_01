@@ -8,6 +8,7 @@ public class lesson_01_06 {
         // y = x * y;
         y = x + y;
 
+
         x = y - x;
         y = y - x;
 
